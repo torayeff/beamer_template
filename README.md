@@ -1,2 +1,2 @@
-# beamer_template
-Beamer Template for Presentations
+# Beamer Template
+Beamer Template for Presentations. Credits to https://github.com/matze/mtheme
